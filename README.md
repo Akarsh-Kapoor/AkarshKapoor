@@ -15,7 +15,7 @@ Turning raw data into actionable business insights 📊
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science, KIIT University
-- 💼 Consultant at Protiviti India
+- 💼 Technical Consultant at Protiviti India
 - 📊 Building Data Analytics & BI Projects
 - 🛠 Experienced with SQL, Power BI, Excel and ETL Workflows
 - 🌱 Currently learning Python for Data Analytics
