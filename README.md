@@ -59,12 +59,16 @@ Created interactive dashboards using AdventureWorks data.
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
+<img width="60%"
+src="https://github-readme-stats.vercel.app/api?username=Akarsh-Kapoor&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akarsh-Kapoor&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh-Kapoor&layout=compact&theme=tokyonight" />
-
+<p align="center">
+<img width="60%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh-Kapoor&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
