@@ -59,8 +59,6 @@ Created interactive dashboards using AdventureWorks data.
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
 <img width="60%"
 src="https://github-readme-stats.vercel.app/api?username=Akarsh-Kapoor&show_icons=true&theme=tokyonight"/>
