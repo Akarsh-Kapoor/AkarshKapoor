@@ -51,11 +51,8 @@ Built an end-to-end Data Warehouse using SQL Server.
 Created interactive dashboards using AdventureWorks data.
 
 ✔ Revenue Analysis
-
 ✔ Profit Margin Analysis
-
 ✔ Product Insights
-
 ✔ Forecasting
 
 🔗 Repository:
