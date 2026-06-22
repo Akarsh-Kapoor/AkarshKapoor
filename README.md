@@ -30,7 +30,6 @@ Turning raw data into actionable business insights 📊
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 
 ## 📌 Featured Projects
